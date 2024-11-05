@@ -1,0 +1,13 @@
+{
+  "name": "medical-data-analyzer",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node src/test.js"
+  },
+  "dependencies": {
+    "csv-parse": "^5.5.2",
+    "simple-statistics": "^7.8.3"
+  }
+}
